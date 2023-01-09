@@ -7,6 +7,7 @@ sections:
     username: admin
   id: about
 
+
 - block: experience
   content:
     date_format: Jan 2006
@@ -34,6 +35,7 @@ sections:
           * Created & analyzed a NPS survey (n = 3k+) to inform product and business teams.
       title: UX Researcher Intern
     title: Experience
+
   design:
     columns: "2"
 # 
