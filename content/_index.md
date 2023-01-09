@@ -65,11 +65,11 @@ sections:
     - name: All
       tag: '*'
     - name: Academic UXR
-      tag: Deep Learning
+      tag: Academic UXR
     - name: Industrial UXR 
-      tag: Demo
+      tag: Industrial UXR
     - name: Design
-      tag: Demo
+      tag: Design
     default_button_index: 0
     filters:
       folders:
@@ -98,20 +98,20 @@ sections:
 #     columns: "2"
 #     view: card
 #   id: featured
-- block: collection
-  content:
-    filters:
-      exclude_featured: true
-      folders:
-      - publication
+# - block: collection
+#   content:
+#     filters:
+#       exclude_featured: true
+#       folders:
+#       - publication
     # text: |-
     #   {{% callout note %}}
     #   Quickly discover relevant content by [filtering publications](./publication/).
     #   {{% /callout %}}
-    title: Recent Publications
-  design:
-    columns: "2"
-    view: citation
+  #   title: Recent Publications
+  # design:
+  #   columns: "2"
+  #   view: citation
 # - block: collection
 #   content:
 #     filters:

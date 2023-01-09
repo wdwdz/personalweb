@@ -6,9 +6,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+
 authors:
 - admin
 - Robert Ford
