@@ -38,5 +38,5 @@ superuser: true
 title: Wangda Zhu 
 ---
 
-Wangda Zhu is a UX Researcher graduating in PhD in Human Behavior and Design at Cornell University in Spring 2023. He has 1 year experience in industry and more than 5 years in academia on UX research in apps and devices with interdisciplinary teams. 
+Wangda Zhu is a UX Researcher graduating from PhD in Human Behavior and Design at Cornell University in Spring 2023. He has 1 year experience in industry and more than 5 years in academia on UX research in apps and devices with interdisciplinary teams. 
 {style="text-align: justify;"}
