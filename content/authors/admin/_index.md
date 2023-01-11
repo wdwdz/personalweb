@@ -16,7 +16,7 @@ first_name: Wangda
 highlight_name: true
 last_name: Zhu
 organizations:
-- name: PhD Candidate in Human Behavior and Design
+- name: PhD Candidate @ Cornell
 role: UX Researcher
 social:
 - icon: envelope
@@ -38,5 +38,5 @@ superuser: true
 title: Wangda Zhu 
 ---
 
-Wangda Zhu is a UX Researcher graduating from PhD in Human Behavior and Design at Cornell University in Spring 2023. He has 1 year experience in industry and more than 5 years in academia on UX research in apps and devices with interdisciplinary teams. 
+With experience in leading tech companies and academia with interdisciplinary teams, blending research, user experience, computer engineering, and design skills to create app and device interactions that are desirable and make people happy. 
 {style="text-align: justify;"}
