@@ -16,8 +16,8 @@ first_name: Wangda
 highlight_name: true
 last_name: Zhu
 organizations:
-- name: PhD Candidate @ Cornell
-role: UX Researcher
+- name: PhD, Researcher
+role: 
 social:
 - icon: envelope
   icon_pack: fas
