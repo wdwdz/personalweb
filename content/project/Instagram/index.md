@@ -6,13 +6,18 @@ external_link: ""
 # slides: example
 # summary: An example of using the in-built project page.
 tags:
-- Academic UXR
+- Learning via Creation
 title: Instagram Learning Community
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1RU2Z4Ld_ZPH4gAFTwRRRIEwS3PzM3x-S/view?usp=share_link"
+url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/1oe_KpS6HBmbtDjAExJ5J_i8zqx2ynigd_iKi5cTpuEs/edit?usp=sharing"
 url_video: ""
 ---
+Zhu, W., Hua, Y., & Wang, L. (2023). “I felt like I was on campus” Creating a Situated Learning Environment through Instagram. Research and Practice in Technology Enhanced Learning, 19, 024. \
+Zhu, W., & Hua, Y. (2023). Enhancing Students’ Learning Experience using Social Networking Applications: Evidence from a Random Experiment. Interactive Learning Environments, 1-25. \
+Zhu, W., Hua, Y., Zhu, G., & Wang, L. (2022). Share and Embrace Demographic and Location Diversity: Creating an Instagram‐based Inclusive Online Learning Community. British Journal of Educational Technology, 53(6), 1530-1548. 
+
+
 
 The Introduction to Environmental Psychology course was taught online due to the COVID-19 lockdown. Students from different locations took two lectures each week over eight weeks through ZOOM. To foster an inclusive learning community, we created a photo-sharing community through Instagram in which all participants could share photos of their surrounding environments and comment on the photos using environmental psychology knowledge they learned in weekly lectures. Instagram is selected as it is one of the top three most used social media platforms among generation Z (i.e., generations whose birth years start from mid to late and end in the 2010s) and an image-based mobile app with features to afford the need to take and share photos from surrounding environments in this learning community. Its key features such as "likes", and "comments" are also useful to community members' communication. 
 

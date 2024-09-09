@@ -3,7 +3,7 @@ date: "2021-12-31T00:00:00Z"
 external_link: ""
 
 tags:
-- Industrial UXR
+- Research Methods
 title: NPS Survey
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/1oPfq7saXHzXHmaTAyLkTZ0elhX8UNgUH/view?usp=sharing"
@@ -11,6 +11,7 @@ url_slides: "https://docs.google.com/presentation/d/1ddEfYpPqo_3Pe2x_CKnm9LaEqUC
 url_video: ""
 
 ---
+Zhu, W., & Zhang, C. (2022). Understanding the Driving Factors Behind Net Promoter Score through Survey: A Case Study of a Food Delivery App. In Proceedings of 2022 Quantitative User Experience Conference (Quant UX Con 2022). Sunnyvale, CA, United States. 
 
 Net Promoter Score (NPS) is extensively adopted by many products as a key indicator of consumers’ experiences and loyalty measured by a single question. One biggest challenge of this approach is the lack of ability to identify driving factors behind customers’ responses to the single question. The plausible way of using satisfaction survey to measure these factors is criticized for lacking direct causal relationship between consumers’ responses to NPS question and their perceived satisfaction. Also, most surveys are biased as they fail to capture the complexity of humans who can be both promoters and distractors.
 

@@ -12,14 +12,40 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: Google via Signature
+    - company: University of Florida 
+      company_logo: org-uf
+      company_url: ""
+      date_end: ""
+      date_start: "2023-08-26"
+      description: |2-
+          * Led design research for ALTER-Math (supported by Schmidt Foundation, $10,000,000) using dialogue-based Generative AI to facilitate K-12 education through learning-by-teaching approaches.
+          * Led design, development and research for ART-Math (supported by IES-SBIR, $250,000) using Generative AI to facilitate math learning math concepts from real-world experiences using learning-by-creation approaches.
+      title: Postdoctral Associate
+
+    - company: University of Pittsburgh
+      company_logo: org-pitt
+      company_url: ""
+      date_end: ""
+      date_start: "2024-08-26"
+      description: |2-
+          * Taught and designed the curriculum of ARC 1911 Design + Digital Media for students in A&S.
+      title: Adjunct Instructor
+
+    - company: EBSCO 
+      company_logo: org-eb
+      company_url: ""
+      date_end: "2022-12-26"
+      date_start: "2022-05-26"
+      description: |2-
+          * Created and led Voices of Students project using data from millions of users to inform product, engineering, customer, research, and UX teams bi-weekly.
+      title: Quantitative Research Associate
+
+    - company: Google 
       company_logo: org-gc
       company_url: ""
       date_end: "2022-12-26"
       date_start: "2022-05-26"
       description: |2-
-          Responsibilities include:
-
           * Designed and led 7 lab and field studies on key features of wearable and hearable devices (e.g. algorithm, wearing comfort) to help stakeholders determine the product direction.
           * Planned the roadmap with a series of studies on watch form design guidelines to inform next generation product engineering and design.
       title: UX Researcher
@@ -29,15 +55,13 @@ sections:
       date_end: "2021-09-30"
       date_start: "2021-07-30"
       description: |2-
-          Responsibilities include:
-
           * Created & analyzed a competitive comparison experiment (n = 4k+) on price to help leaders determine the price strategy.•Created & analyzed a competitive comparison experiment (n = 4k+) on price to help leaders determine the price strategy.
           * Created & analyzed a NPS survey (n = 3k+) to inform product and business teams.
       title: UX Researcher Intern
     title: Experience
 
   design:
-    columns: "2"
+    columns: "1"
 # 
 # - block: collection
 #   content:
@@ -66,12 +90,14 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Academic UXR
-      tag: Academic UXR
-    - name: Industrial UXR 
-      tag: Industrial UXR
-    - name: Design
-      tag: Design
+    - name: Learning via Creation
+      tag: Learning via Creation
+    - name: Creation via AI 
+      tag: Creation via AI
+    - name: Creative Works
+      tag: Creative Works
+    - name: Research Methods
+      tag: Research Methods
     default_button_index: 0
     filters:
       folders:
@@ -132,11 +158,11 @@ sections:
 - block: contact
   content:
     address:
-      city: Ithaca
+      city: Pittsburgh
       country: United States
       country_code: US
-      postcode: "14850"
-      region: NY
+      postcode: "15213"
+      region: PA
     #   street: 450 Serra Mall
     # appointment_url: https://calendly.com
     autolink: true

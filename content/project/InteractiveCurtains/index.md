@@ -3,7 +3,7 @@ date: "2018-12-31T00:00:00Z"
 external_link: ""
 
 tags:
-- Design
+- Creative Works
 title: Interactive Curtains
 url_code: ""
 url_pdf: ""
@@ -12,8 +12,11 @@ url_video: "https://youtu.be/IrOmctMkF0c"
 
 ---
 1st Prize of 2018 Explorative Environments Student Design Competition
-Design: Wangda Zhu; Yixiao Wang; Yuhan Hu; Anqin Zhu;
+Design: Wangda Zhu; Yixiao Wang; Yuhan Hu; Anqin Zhu;\
 Research: Wangda Zhu; Yixiao Wang; Carlos Aguiar; Terry Vallery
+
+Yixiao Wang is currently an Assistant Professor in Industrial Design at Georgia Tech;\
+Carlos Auigar is currently an Assistant Professor in Industrial Design at UIUC.
 
 We created an interaction gallery installation consisting three movable curtains and chances for manipulation of the space via touch sensors. We did UX research by utilizing co-design, user enactments, and user testing methods. Users had influence in the space’s physical design and continue to transform its appearance using interactive features embedded directly in the installation’s material. By having viewers, architects, and UX designers collaborate on a single structure, this work becomes a prime example of art that not only is aesthetically pleasing, but also keeps the user in mind.
 ## Co-design

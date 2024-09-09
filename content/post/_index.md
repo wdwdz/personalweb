@@ -1,8 +1,8 @@
 ---
 cms_exclude: true
 header:
-  caption: ""
+  caption: "d"
   image: ""
-title: Posts
+title: Teaching
 view: 2
 ---

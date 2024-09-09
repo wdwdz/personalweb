@@ -3,7 +3,7 @@ date: "2022-12-31T00:00:00Z"
 external_link: ""
 
 tags:
-- Industrial UXR
+- Research Methods
 title: Usability Study Lab
 url_code: ""
 url_pdf: ""
