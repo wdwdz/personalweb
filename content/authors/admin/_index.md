@@ -5,7 +5,8 @@ first_name: Wangda
 highlight_name: yes
 last_name: Zhu
 organizations: 
-- name: PhD @ Cornell University
+- name: PhD and M.Arch @ Cornell University;      
+        BEng and B.Arch @ Zhejiang University
 role: Postdoc @ University of Florida
 social:
 # - icon: envelope

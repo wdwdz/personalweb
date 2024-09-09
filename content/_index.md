@@ -94,10 +94,11 @@ sections:
       tag: Learning via Creation
     - name: Creation via AI 
       tag: Creation via AI
+    - name: Research Methods
+      tag: Research Methods      
     - name: Creative Works
       tag: Creative Works
-    - name: Research Methods
-      tag: Research Methods
+
     default_button_index: 0
     filters:
       folders:
