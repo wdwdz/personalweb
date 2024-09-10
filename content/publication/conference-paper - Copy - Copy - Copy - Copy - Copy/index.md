@@ -10,12 +10,10 @@
 # - Equal contribution
 # - Equal contribution
 authors:
-- Hai Li
-- Wanli Xing
-- Chenglu Li
 - admin
-- Neil Heffernan
-date: "2024-07-01T00:00:00Z"
+- Ying Hua
+
+date: "2022-07-01T00:00:00Z"
 # doi: ""
 # featured: true
 # image:
@@ -24,7 +22,7 @@ date: "2024-07-01T00:00:00Z"
 #   preview_only: false
 # projects:
 # - example
-publication: In *Eleventh ACM Conference on Learning@ Scale*
+publication: In *54th Annual Conference of the Environmental Design Research Association*
 # publication_short: In *ICW*
 # publication_types:
 # - "1"
@@ -33,7 +31,7 @@ publication: In *Eleventh ACM Conference on Learning@ Scale*
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 # tags: []
-title: Positive Affective Feedback Mechanisms in an Online Mathematics Learning Platform
+title: Building-EMA:Applying Ecological Momentary Assessment to Post-occupancy Evaluation
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_pdf: ""

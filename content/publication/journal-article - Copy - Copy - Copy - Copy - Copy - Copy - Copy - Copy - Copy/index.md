@@ -6,50 +6,49 @@
 #   egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
 #   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
 #   Vestibulum sit amet erat at nulla eleifend gravida.
-# author_notes:
-# - Equal contribution
-# - Equal contribution
+
 authors:
-- Hai Li
 - Wanli Xing
-- Chenglu Li
+- Hai Li
+- Taehyun Kim
 - admin
-- Neil Heffernan
-date: "2024-07-01T00:00:00Z"
-# doi: ""
-# featured: true
+- Yukyeong Song
+
+date: "2024-09-01T00:00:00Z"
+doi: ""
+featured: false
 # image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #   focal_point: ""
 #   preview_only: false
-# projects:
-# - example
-publication: In *Eleventh ACM Conference on Learning@ Scale*
-# publication_short: In *ICW*
-# publication_types:
-# - "1"
-# publishDate: "2017-01-01T00:00:00Z"
+projects: []
+publication: '*Education and Information Technologies*'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2017-01-01T00:00:00Z"
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-# tags: []
-title: Positive Affective Feedback Mechanisms in an Online Mathematics Learning Platform
+# tags:
+# - Source Themes
+title: Investigating the Behaviors of Core and Periphery Students in an Asynchronous Online Discussion  Community Using Network Analysis and Topic Modeling
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
-# url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
-# url_pdf: ""
+# url_dataset: ""
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
-# url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-# url_video: https://youtube.com
+# url_source: ""
+# url_video: ""
 ---
-
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+<!-- 
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
