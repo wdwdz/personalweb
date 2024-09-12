@@ -20,6 +20,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/wangda-zhu-6705b084/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-9611-4800
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf

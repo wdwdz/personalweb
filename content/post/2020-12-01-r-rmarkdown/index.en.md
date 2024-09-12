@@ -12,60 +12,60 @@ image:
   preview_only: false
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
-subtitle: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturer to teach AI for design representations at Cornell Unviersity twice and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio during my PhD."
-summary: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturers to teach AI for design representations at Cornell Unviersity and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio during my PhD."
+subtitle: "I have extensive experience in teaching design studios. This is a studio (DEA5540) that I have co-taught with my PhD advisor Ying Hua for four times. Students were required to apply research-based design for future working and learning environments from technological, physical, and social dimensions."
+summary: "I have extensive experience in teaching design studios. This is a studio (DEA5540) that I have co-taught with my PhD advisor Ying Hua for four times. Students were required to apply research-based design for future working and learning environments from technological, physical, and social dimensions."
 
-title: Integrated Environments Design Studio
+title: Future Learning Environments Design Studio
 ---
 
 ## Overview
 
-1. **Structure and Goals**: **Design Domain Knowledge** (Architecture/Industrial Design/System Design/Interior Design etc.) + **Software Skills** (AutoCAD, Illustrator, Photoshop, Fusion360, Rhino, Grasshopper, Revit, StableDiffusion etc.) + **Geometry Theory** (Architetural Geometry/Descriptive Gemotry/Computer Graphics/ Generative AI knowledge etc.)
-2. **Content and Curriculum**: Courses are organized by tasks and assignments; Lectures and Practice. 
-3. **AI Integration**: AI is a critical section in computational design and representation. I have successfully taught multiple workshops and one-month modules in departments of Interior Design, Architecture, Human-centered Design, Landscape Archtecture, Fashion Design at Cornell, University of Florida, and University of Pittsburgh.
-4. **Links**: Links to examples of Syllabus, Miro Board, and slides.
+
+1. **Structure and Goals**: **Design Skills**: strategic design to solve real world problems including research, design, communication with stakeholders, and collaboration in teams + **Integrated Environments**: systemetically design technological, physical, and social dimensions of learning and working environments
+2. **Content and Curriculum**: Courses are organized by weekly desk crits with key points such as research and programming, strategic plan, midterm evaluation, integrated UX design (interior design, UI, service design), and final presentation.
+3. **Examples of Students' works**
  
 ## Structure and Goals
 
-Courses are organized by tasks which cover geometry theories, design knowledge, and software skills. Figure 1 is an example of the structure of 2D vector fundamentals.
+- Outcome 1: Ability to apply concepts, techniques, and tools of strategic planning to address typical challenges facing large complex organizations
+and projects.
+- Outcome 2: Competency to develop innovative and well-grounded environments
+planning, design, and management solutions for value generation, change
+management, and branding.
+- Outcome 3: Work in small teams as in a consulting project in real world; polish
+skills for client communication and professional delivery of consulting work in
+oral, visual and written forms.
+This course was inspired from Ecological Systems Theory (Bronfenbrenner, 1990) to give students hands-on experience to design the integrated environments with multiple layers (Figure 1).
 
 <div class="figure">
-<img src="fig1.png" alt="Course structure for module 1" width="672" />
-<p class="caption">Figure 1: The course structure for module 1</p>
+<img src="fig4.png" alt="Course structure for module 1" width="672" />
+<p class="caption">Figure 1: Ecological Systems Theory (Bronfenbrenner, 1990)  </p>
 </div>
 
 
 ## Content and Curriculum
 
-The content of tasks are divided into several week-long sub-tasks. Students will learn by practicing. Figure 2 is an example of the content of 2D vector fundamentals.
+The content of tasks were to design a real world learning or working environments based on stakeholders' high-level needs in real-world. The whole course includes weekly desk crits with key points such as research and programming, strategic plan, midterm evaluation, integrated UX design (interior design, UI, service design), and final presentation (Figure 2).
 
 <div class="figure">
-<img src="fig2.png" alt="Course content for module 1" width="672" />
-<p class="caption">Figure 2: The course content for module 1</p>
+<img src="fig1.png" alt="Course content for module 1" width="672" />
+<p class="caption">Figure 2: The course content</p>
 </div>
 
-In the class, interaction between instructors and students are critical. I used Miro board for requiring students to upload their screenshots at the end of the course, so I can understand their progress and adjust the content and speed in the following classes (Figure 3).
+
+## Examples of Students' works
+The final output is a portfolio usually having about 50 pages. Part of two examples were attached below.
 
 <div class="figure">
-<img src="fig3.png" alt="An example of Miro board progress" width="672" />
-<p class="caption">Figure 3: An example of Miro board progress</p>
+<img src="fig2.png" alt="Reversing design process by AI" width="672" />
+<p class="caption">Figure 3: Digital and Physical Solution for Future Workplace (by Ava and Hadar, 2022)</p>
 </div>
-
-## AI Integration
-I taught AI theories (transformer, finetuning), skills (prompt writing, workflow), applications (design settings) together and give students hands-on experience of using AI in their final projects. 
-Figure 4 is an example of how AI may reverse the design workflow in Human-centered Design, a one-month module that I developed and taught at Cornell in Spring 2024.
 
 <div class="figure">
-<img src="fig4.png" alt="Reversing design process by AI" width="672" />
-<p class="caption">Figure 4: Reversing design process by AI</p>
+<img src="fig3.png" alt="Reversing design process by AI" width="672" />
+<p class="caption">Figure 3: Metaverse Design for Future Office (by Yuling and Kevin, 2020) </p>
 </div>
 
-## Links
-
-I attached the syllabus, some Miro boards, and slides links here for reference:
-- ARC1911 Syllabus (https://drive.google.com/file/d/1pf-0Z6aHyZFe-X-B1psDrMWo5PByLnRK/view)
-- AI workshop Miro boards (https://miro.com/app/board/uXjVKU1-9zw=/)
-- AI module slides (https://docs.google.com/presentation/d/1aGvU6jPsiaTuSKfoUPhFxxVj-TKsUIUbvZlge0kb14E/edit?usp=sharing)
 
 
 <!-- ## License

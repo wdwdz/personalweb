@@ -12,8 +12,8 @@ image:
   preview_only: false
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
-subtitle: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturer to teach AI for design representations at Cornell Unviersity twice and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio during my PhD."
-summary: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturers to teach AI for design representations at Cornell Unviersity and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio during my PhD."
+subtitle: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturer to teach AI for design representations at Cornell Unviersity twice and University of Florida; TA for four times for DEA 1101 Visual Literacy and Design Studio."
+summary: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturers to teach AI for design representations at Cornell Unviersity and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio."
 
 title: Computational Design and Representation
 ---
