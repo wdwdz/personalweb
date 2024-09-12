@@ -29,5 +29,5 @@ social:
 superuser: yes
 bio: null
 ---
-With experience in **education**, **design**, and **human-computer interaction**, blending **UX**, **AI technologies**, and **computational methods** to create **interactive media** powered by AI that are desirable and engaging. 
+With experience in **education**, **design**, and **human-computer interaction**, blending **UX**, **AI technologies**, and **computational methods** to create **interactive media** powered by **AI** that are desirable and engaging. 
 {style="text-align: justify;"}

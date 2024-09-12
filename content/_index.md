@@ -12,34 +12,31 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: University of Florida 
+    - company: College of Education, University of Florida 
       company_logo: org-uf
       company_url: ""
       date_end: ""
       date_start: "2023-08-26"
       description: |2-
-          * Led design research for ALTER-Math (supported by Schmidt Foundation, $10,000,000) using dialogue-based Generative AI to facilitate K-12 education through learning-by-teaching approaches.
-          * Led design, development and research for ART-Math (supported by IES-SBIR, $250,000) using Generative AI to facilitate math learning math concepts from real-world experiences using learning-by-creation approaches.
+          * Led design research for ALTER-Math (supported by Schmidt Foundation, $10,000,000), a dialogue-based Generative AI learning medium to facilitate K-12 education through learning-by-teaching approaches.
+          * Led design, development and research for creating ART-Math (supported by IES-SBIR, $250,000), a learning medium using Generative AI to facilitate math learning math concepts from real-world experiences using learning-by-creation approaches.
       title: Postdoctral Associate
-
-    - company: University of Pittsburgh
+    - company: School of Art & Science, University of Pittsburgh
       company_logo: org-pitt
       company_url: ""
       date_end: ""
       date_start: "2024-08-26"
       description: |2-
-          * Taught and designed the curriculum of ARC 1911 Design + Digital Media for students in A&S.
+          * Taught and designed the curriculum of ARC 1911 Design + Digital Media for students in A&S (the only design program in School of A&S in the U.S.).
       title: Adjunct Instructor
-
     - company: EBSCO 
       company_logo: org-eb
       company_url: ""
       date_end: "2022-12-26"
       date_start: "2022-05-26"
       description: |2-
-          * Created and led Voices of Students project using data from millions of users to inform product, engineering, customer, research, and UX teams bi-weekly.
-      title: Quantitative Research Associate
-
+          * Created and led Voices of Students project using data from millions of Monthly Active Users to inform product, engineering, customer, research, and UX teams bi-weekly.
+      title: Quantitative UX Research Associate
     - company: Google 
       company_logo: org-gc
       company_url: ""
@@ -59,9 +56,9 @@ sections:
           * Created & analyzed a NPS survey (n = 3k+) to inform product and business teams.
       title: UX Researcher Intern
     title: Experience
-
   design:
     columns: "1"
+  id: experience
 # 
 # - block: collection
 #   content:
@@ -98,7 +95,6 @@ sections:
       tag: Research Methods      
     - name: Creative Works
       tag: Creative Works
-
     default_button_index: 0
     filters:
       folders:
@@ -123,6 +119,7 @@ sections:
       folders:
       - publication
     title: Publications
+    subtitle: Please refer to my CV for a complete list of publications. 
   design:
     columns: "1"
     flip_alt_rows: false
