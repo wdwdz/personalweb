@@ -5,7 +5,7 @@ first_name: Wangda
 highlight_name: yes
 last_name: Zhu
 organizations: 
-- name: PhD and M.Arch @ Cornell University;      
+- name: PhD and MS @ Cornell University;      
         BEng and B.Arch @ Zhejiang University
 role: Postdoc @ University of Florida
 social:
@@ -29,5 +29,5 @@ social:
 superuser: yes
 bio: null
 ---
-With experience in education, design, and human-computer interaction, blending user experience, AI technologies, and computational methods to create interactive learning environments powered by AI that are desirable and make students engaged. 
+With experience in **education**, **design**, and **human-computer interaction**, blending **UX**, **AI technologies**, and **computational methods** to create **interactive media** powered by AI that are desirable and engaging. 
 {style="text-align: justify;"}

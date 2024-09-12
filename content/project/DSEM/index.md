@@ -4,14 +4,14 @@ external_link: ""
 
 tags:
 - Research Methods
-title: Model Driven/Theory Driven Method-Dynamic Structural Equaltion Modeling
+title: Model Driven-Dynamic Structural Equaltion Modeling
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
 ---
-Zhu, G., Zhu, W., Ratner, K., & Burrow, A. (Under review). Investigating Reciprocity between Daily Emotions and Learning Progress in Self-Directed Learning. Contemporary Educational Psychology. 
+Zhu, G., Zhu, W., Ratner, K., & Burrow, A. (Under review). Investigating Reciprocity between Daily Emotions and Learning Progress in Self-Directed Learning. Emotion. 
 
 Control-value theory suggests the bidirectional association between learners' emotions
 and academic performance, supported by empirical evidence. However, previous

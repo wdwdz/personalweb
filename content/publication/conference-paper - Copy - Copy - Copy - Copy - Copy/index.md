@@ -15,7 +15,7 @@ authors:
 
 date: "2022-07-01T00:00:00Z"
 # doi: ""
-# featured: true
+featured: false
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""

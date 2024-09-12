@@ -12,15 +12,15 @@ image:
   preview_only: false
 lastmod: "2020-12-13T00:00:00Z"
 projects: []
-subtitle: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturer to teach AI for design representations at Cornell Unviersity twice and University of Florida; TA for four times for DEA 1101 Visual Literacy and Design Studio."
-summary: "I have extensive experience in teaching computational design and representation: the instructor of record for ARC1911 Digital Representation at University of Pittsburgh; guest lecturers to teach AI for design representations at Cornell Unviersity and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio."
+subtitle: "I have extensive experience in teaching Design and Digital Media: the instructor of record for ARC1911 Design and Digital Media at University of Pittsburgh; guest lecturer to teach AI for design representations at Cornell Unviersity twice and University of Florida; TA for four times for DEA 1101 Visual Literacy and Design Studio."
+summary: "I have extensive experience in teaching Design and Digital Media: the instructor of record for ARC1911 Design and Digital Media at University of Pittsburgh; guest lecturers to teach AI for design representations at Cornell Unviersity and University of Florida; teaching assistant for four times for DEA 1101 Visual Literacy and Design Studio."
 
-title: Computational Design and Representation
+title: Design and Digital Media
 ---
 
 ## Overview
 
-1. **Structure and Goals**: **Design Domain Knowledge** (Architecture/Industrial Design/System Design/Interior Design etc.) + **Software Skills** (AutoCAD, Illustrator, Photoshop, Fusion360, Rhino, Grasshopper, Revit, StableDiffusion etc.) + **Geometry Theory** (Architetural Geometry/Descriptive Gemotry/Computer Graphics/ Generative AI knowledge etc.)
+1. **Structure and Goals**: **Design Knowledge** (Architecture/Industrial Design/UX System Design/Interior Design etc.) + **Software Skills** (AutoCAD, Illustrator, Photoshop, Fusion360, Rhino, Figma,  Grasshopper, Revit, StableDiffusion etc.) + **Geometry Theory** (Architetural Geometry/Descriptive Gemotry/Computer Graphics/ Generative AI knowledge etc.)
 2. **Content and Curriculum**: Courses are organized by tasks and assignments; Lectures and Practice. 
 3. **AI Integration**: AI is a critical section in computational design and representation. I have successfully taught multiple workshops and one-month modules in departments of Interior Design, Architecture, Human-centered Design, Landscape Archtecture, Fashion Design at Cornell, University of Florida, and University of Pittsburgh.
 4. **Links**: Links to examples of Syllabus, Miro Board, and slides.

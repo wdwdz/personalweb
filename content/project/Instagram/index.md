@@ -7,7 +7,7 @@ external_link: ""
 # summary: An example of using the in-built project page.
 tags:
 - Learning via Creation
-title: Instagram Learning Community
+title: Social Media Learning Community
 url_code: ""
 url_pdf: ""
 url_slides: "https://docs.google.com/presentation/d/1oe_KpS6HBmbtDjAExJ5J_i8zqx2ynigd_iKi5cTpuEs/edit?usp=sharing"

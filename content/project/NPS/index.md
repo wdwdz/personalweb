@@ -4,7 +4,7 @@ external_link: ""
 
 tags:
 - Research Methods
-title: NPS Survey
+title: Complex Survey Analysis
 url_code: ""
 url_pdf: "https://drive.google.com/file/d/1oPfq7saXHzXHmaTAyLkTZ0elhX8UNgUH/view?usp=sharing"
 url_slides: "https://docs.google.com/presentation/d/1ddEfYpPqo_3Pe2x_CKnm9LaEqUCHR_2gS9rr6DrybT8/edit?usp=sharing"

@@ -116,17 +116,29 @@ sections:
 #     title: Gallery
 #   design:
 #     columns: "1"
-# - block: collection
-#   content:
-#     filters:
-#       featured_only: true
-#       folders:
-#       - publication
-#     title: Featured Publications
-#   design:
-#     columns: "2"
-#     view: card
-#   id: featured
+- block: collection
+  content:
+    filters:
+      featured_only: true
+      folders:
+      - publication
+    title: Publications
+  design:
+    columns: "1"
+    flip_alt_rows: false
+    view: card
+  id: publications
+- block: collection
+  content:
+    filters:
+      featured_only: false
+      folders:
+      - post
+    title: Teaching
+  design:
+    columns: "1"
+    view: card
+  id: teaching
 # - block: collection
 #   content:
 #     filters:

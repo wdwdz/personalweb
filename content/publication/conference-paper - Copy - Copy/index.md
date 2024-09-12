@@ -16,7 +16,7 @@ authors:
 - Rui Guo
 date: "2024-07-01T00:00:00Z"
 # doi: ""
-# featured: true
+featured: true
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #   focal_point: ""

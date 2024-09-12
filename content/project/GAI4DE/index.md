@@ -5,7 +5,7 @@ external_link: ""
 tags:
 - Creation via AI
 - Learning via Creation
-title: Generative AI for Design Education
+title: Generative AI for Design Media Education
 url_code: ""
 url_pdf: ""
 url_slides: ""
