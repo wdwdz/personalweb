@@ -18,8 +18,8 @@ sections:
       date_end: ""
       date_start: "2023-08-26"
       description: |2-
-          * Led design research for ALTER-Math (supported by Schmidt Foundation, $10,000,000), a dialogue-based Generative AI learning medium to facilitate K-12 education through learning-by-teaching approaches.
-          * Led design, development and research for creating ART-Math (supported by IES-SBIR, $250,000), a learning medium using Generative AI to facilitate math learning math concepts from real-world experiences using learning-by-creation approaches.
+          * Led design research for ALTER-Math (supported by Schmidt Foundation, $10M USD), a dialogue-based Generative AI learning medium to facilitate K-12 education through learning-by-teaching approaches.
+          * Led design, development and research for creating ART-Math (supported by IES, $1M USD), a creative learning system using Generative AI to facilitate creating math stories based on real-world experiences.
       title: Postdoctral Associate
     - company: School of Art & Science, University of Pittsburgh
       company_logo: org-pitt
@@ -27,8 +27,9 @@ sections:
       date_end: ""
       date_start: "2024-08-26"
       description: |2-
-          * Taught and designed the curriculum of ARC 1911 Design + Digital Media for students in A&S (the only design program in School of A&S in the U.S.).
-      title: Adjunct Instructor
+          * Taught and designed the curriculums of Design + Digital Media for students in A&S. 
+          Visiting critics for design studios in the program of Architectural Studies. 
+      title: Adjunct Lecturer
     - company: EBSCO 
       company_logo: org-eb
       company_url: ""
@@ -36,7 +37,7 @@ sections:
       date_start: "2022-05-26"
       description: |2-
           * Created and led Voices of Students project using data from millions of Monthly Active Users to inform product, engineering, customer, research, and UX teams bi-weekly.
-      title: Quantitative UX Research Associate
+      title: Quantitative UX Research Fellow
     - company: Google 
       company_logo: org-gc
       company_url: ""

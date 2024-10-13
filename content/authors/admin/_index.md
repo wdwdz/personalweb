@@ -7,7 +7,7 @@ last_name: Zhu
 organizations: 
 - name: PhD and MS @ Cornell University;      
         BEng and B.Arch @ Zhejiang University
-role: Postdoc @ University of Florida
+role: Postdoc @ University of Florida; Adjunct Lecturer @ University of Pittsburgh
 social:
 # - icon: envelope
 #   icon_pack: fas
@@ -29,5 +29,5 @@ social:
 superuser: yes
 bio: null
 ---
-With experience in **education**, **design**, and **human-computer interaction**, blending **UX**, **AI technologies**, and **computational methods** to create **interactive media** powered by **AI** that are desirable and engaging. 
+With experience in **education**, **design**, and **human-computer interaction**, blending **UX**, **AI technologies**, and **computational methods** to develop **creative systems** powered by **AI** that are desirable and engaging. 
 {style="text-align: justify;"}
